@@ -40,6 +40,11 @@ Access the application in your browser: http://localhost:3000
 
 ## Output
 
+![Output](https://github.com/salonipunjabi4/facebook-clone-react-springboot/blob/master/fb_login.png?raw=true)
+![Output](https://github.com/salonipunjabi4/facebook-clone-react-springboot/blob/master/fb_nextauth.png?raw=true)
+![Output](https://github.com/salonipunjabi4/facebook-clone-react-springboot/blob/master/fb_feed1.png?raw=true)
+![Output](https://github.com/salonipunjabi4/facebook-clone-react-springboot/blob/master/fb_feed2.png?raw=true)
+
 ## Contributors
 
 Saloni Punjabi
